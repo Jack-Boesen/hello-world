@@ -24,3 +24,9 @@ Example file structure:
 - What is contained within the data files?
 - Datafile considerations
 - URL links to files - example here: [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+
+## Additional Documentation
+No additional documentation at this time. Here is some **BOLD** text
+
+## Versioning
+Discuss any versioning used especially if you are making major changes throughout the process of your code.
