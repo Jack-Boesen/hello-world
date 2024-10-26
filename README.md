@@ -1,7 +1,7 @@
 # Hello-World Project
 
 ## Project Title
-**Hello World Sample**
+*Hello World Sample*
 
 ## Description
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
